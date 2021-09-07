@@ -29,4 +29,8 @@ This app requires windows to run!
    - 4 => Warning Icon
    
    Entering anything other than above will display "Info" icon
+   
+## Additional Reading
+
+Dont forget to check out [Pachi's winapi examples](https://github.com/pachi/rust_winapi_examples). It is well explained and helped me to understand the basics really fast!
 
