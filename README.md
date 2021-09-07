@@ -12,7 +12,7 @@ This app requires windows to run!
 1. Make sure [Rust](https://www.rust-lang.org/tools/install) is installed and configured.
 2. Clone the repo
 3. Build the project by running ```cargo build``` on your terminal
-4. To run the project type ```cargo "Hello World" "Msgbox App" 1``` and press Enter
+4. To run the project type ```cargo run "Hello World" "Msgbox App" 1``` and press Enter
 
 ## Arguments
 
