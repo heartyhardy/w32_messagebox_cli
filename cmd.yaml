@@ -1,0 +1,20 @@
+name: msgbox
+version: "1.0"
+author: RustedRed
+about: Shows a messagebox
+args:
+    - MSG:
+        value_name: MSG
+        help: Sets the Messagebox message
+        required: true
+        takes_value: true
+    - CAPTION:
+        value_name: CAPTION
+        help: Sets the Messagebox caption
+        required: true
+        takes_value: true
+    - ICON:
+        value_name: ICON
+        help: Sets the Messagebox icon
+        required: true
+        takes_value: true
